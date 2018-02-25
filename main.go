@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/jakemont/vgotest"
-	"github.com/jakemont/vgotest/foo"
+	"github.com/JakeMont/vgotest"
+	"github.com/JakeMont/vgotest/foo"
 )
 
 func main() {
